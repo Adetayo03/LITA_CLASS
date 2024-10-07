@@ -1,7 +1,14 @@
 # LITA_CLASS
 
 ## Project Title: E Commerce Sales Analysis ##
+[Project Overview](#project-overview)
 
+Data Sources
+Tools Used
+Data Cleaning and Preparations
+Exploratory Data Analysis
+Data Analysis
+Data Visualization
 ### Project Overview
 ---
 This Data Analysis project aims
@@ -10,7 +17,7 @@ This Data Analysis project aims
 -------
 The primary source of data used here is Data Sale.csv
 
-### Tools Used
+### Tools Used 
 ---
 - Microsoft Excel [Download Here](https://www.microsoft.com)
   1. For Data Cleaning
@@ -38,3 +45,12 @@ WHERE CONDITION = TRUE
 ```
 
 ### Data Visualization
+
+😆
+
+🧑‍🎓
+
+💻
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1|Table 2|Table 3|
