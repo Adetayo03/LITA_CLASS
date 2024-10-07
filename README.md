@@ -36,3 +36,5 @@ Codes or Queries or Dax expressions used during this analysis are;
 SELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
+
+### Data Visualization
