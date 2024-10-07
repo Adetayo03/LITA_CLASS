@@ -3,12 +3,19 @@
 ## Project Title: E Commerce Sales Analysis ##
 [Project Overview](#project-overview)
 
-Data Sources
-Tools Used
-Data Cleaning and Preparations
-Exploratory Data Analysis
-Data Analysis
-Data Visualization
+[Data Sources].(#Data-Sources)
+
+[Tools Used](#Tool-Used)
+
+[Data Cleaning and Preparations](#Data-Cleaning-and-Preparations)
+
+[Exploratory Data Analysis](#Exploratory-Data-Analysis)
+
+[Data Analysis](#Data-Analysis)
+
+[Data Visualization](#
+Data-Visualization)
+
 ### Project Overview
 ---
 This Data Analysis project aims
